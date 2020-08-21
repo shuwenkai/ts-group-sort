@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/shuwenkai/ts-group-sort.svg?branch=master)](https://travis-ci.org/shuwenkai/ts-group-sort)
 # 数组分组排序
 
 > 传入数组，升序或者降序，排序分组字段，将分组排序后输出
