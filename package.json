@@ -1,0 +1,24 @@
+{
+  "name": "ts-group-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuwenkai/ts-group-sort.git"
+  },
+  "author": "shuwenkai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuwenkai/ts-group-sort/issues"
+  },
+  "homepage": "https://github.com/shuwenkai/ts-group-sort#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1"
+  }
+}
